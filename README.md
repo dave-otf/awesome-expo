@@ -57,6 +57,7 @@
 
 ## Libraries built by the community
 
+- [OTF UI Native](https://github.com/otf-kit/sdk?utm_source=directory&utm_medium=organic&utm_campaign=first-sale-14d-20261016&utm_content=2026-10-24-awesome-expo-native-ui-sdk) - A free MIT React Native component SDK for Expo apps, with component names and design tokens shared across web and native.
 - [ex-react-native-i18n](https://github.com/xcarpentier/react-native-i18n) - ex-react-native-i18n for Expo
 - [react-native-linkedin](https://github.com/xcarpentier/react-native-linkedin)
 - [rn-pdf-reader-js](https://github.com/xcarpentier/rn-pdf-reader-js/blob/master/README.md) - A PDF reader, in JavaScript only, for Expo, Android capable, PDF.JS
