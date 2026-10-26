@@ -60,6 +60,7 @@
 - [ex-react-native-i18n](https://github.com/xcarpentier/react-native-i18n) - ex-react-native-i18n for Expo
 - [react-native-linkedin](https://github.com/xcarpentier/react-native-linkedin)
 - [rn-pdf-reader-js](https://github.com/xcarpentier/rn-pdf-reader-js/blob/master/README.md) - A PDF reader, in JavaScript only, for Expo, Android capable, PDF.JS
+- [otf-kit/sdk](https://github.com/otf-kit/sdk) - MIT-licensed cross-platform UI components for web, iOS, and Android.
 
 ## Documentation & Reference
 
